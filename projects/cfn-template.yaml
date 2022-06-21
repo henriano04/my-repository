@@ -4,7 +4,7 @@ Description: |
 Parameters:
   KeyName:
     Description: Enter the name of your Key Pair for SSH connections. Rihanna says Work! Work! Work!
-    Type: AWS::EC2::KeyPair::henry
+    Type: AWS::EC2::KeyPair::KeyName
   
 Resources:
   WebServerSecurityGroup:
